@@ -1,9 +1,12 @@
 # Java!
 ## e um pouco de Markdown
 ---
- *repositório para as aulas de __java__*
+1. *repositório para as aulas de __java__*
  
- ~~Testeando o Markdown~~
+   1. ~~Testeando o Markdown~~
 
- _primeiro repositório que __eu criei___
+   1. _primeiro repositório que __eu criei___
+* Lista demarcada
+   * isso ai
+
 ***
