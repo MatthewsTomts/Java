@@ -9,6 +9,8 @@
 * Lista demarcada
    * isso ai
 - também serve usar traço
+
+- [X]  Aprender a usar o git e o github
 - [ ]  Terminar os codigos para colocar no repositorio
 - [ ]  Iniciar o próximo módulo
 ***
