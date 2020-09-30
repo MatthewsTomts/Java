@@ -5,7 +5,7 @@
 
    1. ~~Testeando o Markdown~~
    
-   1. _primeiro repositório que __eu criei___
+   1. _primeiro repositório que **eu criei**_
 * Lista demarcada
    * isso ai
 - também serve usar traço
