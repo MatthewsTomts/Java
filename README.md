@@ -1,6 +1,6 @@
 # Java!
 ## e um pouco de Markdown
- *repositório para as aulas de **java***
+ *repositório para as aulas de __java__*
  ---
  ~~Testeando o Markdown~~
 
