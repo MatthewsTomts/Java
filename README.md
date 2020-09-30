@@ -14,4 +14,4 @@
 - [ ]  Terminar os codigos para colocar no repositorio
 - [ ]  Iniciar o próximo módulo
 ***
-
+[Veja os emojis](github.com/ikatyang)
