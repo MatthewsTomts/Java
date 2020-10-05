@@ -33,18 +33,12 @@ public class VetorAgrVai {
             if (anoA % 4 == 0 && anoA % 100 != 0 || anoA % 400 == 0) {
                 tot[1] = 29;
             }
-            System.out.println("O Mês " + mes[c] + " tem " + tot[c] + " Dias");
+            System.out.println("O Mês de " + mes[c] + " tem "
+                    + tot[c] + " Dias ao todo.");
         }
         
-        double num[] = {3.5, 2.75, 9, -4.5};
-        int test[] = new int[20];
-        
-        int pos = Arrays.binarySearch(num, 9); //Procura pela posição do 9 no vetor num
-        Arrays.sort(num); //Organiza os números no vetor num
-        Arrays.fill(test, 0); //Preenche o vetor Test com zeros
-        
-        System.out.println("Encontrei o 9 na posição " + pos + " do vetor num");
-        
+        double num[] = {3.5, 2.75, 9, -4.5};        
+        Arrays.sort(num); //Organiza os números no vetor num                              
         for (double valor: num) { 
             /*valor recebe os valores de num de acordo com a ordem
             e quando chega no final do num ele para
@@ -53,6 +47,11 @@ public class VetorAgrVai {
         }
         
         System.out.println("");
+        int pos = Arrays.binarySearch(num, 9); //Procura pela posição do 9 no vetor num
+        System.out.println("Encontrei o 9 na posição " + pos + " do vetor num");
+        
+        int test[] = new int[20];
+        Arrays.fill(test, 0); //Preenche o vetor Test com zeros 
         for (int valor: test) {
             System.out.print(valor + " ");
         }
