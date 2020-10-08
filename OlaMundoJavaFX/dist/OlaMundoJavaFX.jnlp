@@ -10,9 +10,6 @@
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
     <jar href="OlaMundoJavaFX.jar" size="2687" download="eager" />
   </resources>
-  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="OlaMundoJavaFX" >
-    <param name="requiredFXVersion" value="8.0+"/>
-  </applet-desc>
   <jfx:javafx-desc  width="800" height="600" main-class="olamundojavafx.OlaMundoJavaFX"  name="OlaMundoJavaFX" />
   <update check="always"/>
 </jnlp>
