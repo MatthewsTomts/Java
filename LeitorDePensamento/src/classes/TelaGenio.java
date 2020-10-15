@@ -93,7 +93,7 @@ public class TelaGenio extends javax.swing.JFrame {
 
     private void btnAdiviActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAdiviActionPerformed
         // TODO add your handling code here:
-        double ale = 1 + Math.random() * (6-1);
+        double ale = 1 + Math.random() * 5;
         int num = Integer.parseInt(spnNum.getValue().toString());
         int valor = (int) ale;
         lblCerto.setFont(new Font("Arial", Font.ITALIC, 14));
